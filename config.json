@@ -1,0 +1,58 @@
+{
+  "finger_emojis": {
+    "thumb": "assets/thumb.png",
+    "index": "assets/index.png",
+    "middle": "assets/middle.png",
+    "ring": "assets/ring.png",
+    "pinky": "assets/pinky.png"
+  },
+  "sticker_packs": [
+    {
+      "name": "ميمز 1",
+      "stickers": {
+        "thumb": "assets/thumb.png",
+        "index": "assets/index.png",
+        "middle": "assets/middle.png",
+        "ring": "assets/ring.png",
+        "pinky": "assets/pinky.png"
+      }
+    },
+    {
+      "name": "ميمز 2",
+      "stickers": {
+        "thumb": "assets/memes2/thumb.png",
+        "index": "assets/memes2/index.png",
+        "middle": "assets/memes2/middle.png",
+        "ring": "assets/memes2/ring.png",
+        "pinky": "assets/memes2/pinky.png"
+      }
+    },
+    {
+      "name": "إيموجي",
+      "stickers": {
+        "thumb": "assets/emoji/thumb.png",
+        "index": "assets/emoji/index.png",
+        "middle": "assets/emoji/middle.png",
+        "ring": "assets/emoji/ring.png",
+        "pinky": "assets/emoji/pinky.png"
+      }
+    }
+  ],
+  "active_pack": 0,
+  "finger_colors": {
+    "thumb": "#FF6B6B",
+    "index": "#FFA94D",
+    "middle": "#69DB7C",
+    "ring": "#4DABF7",
+    "pinky": "#DA77F2"
+  },
+  "sticker_size": 72,
+  "show_labels": true,
+  "show_count": true,
+  "show_skeleton": true,
+  "mirror": true,
+  "sound": false,
+  "auto_packs": true,
+  "remember_pack": true,
+  "theme": "ليلي"
+}
